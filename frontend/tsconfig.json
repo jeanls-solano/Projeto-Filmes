@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //a pasta base para todas as referências será src
     "target": "es5",
     "lib": [
       "dom",
